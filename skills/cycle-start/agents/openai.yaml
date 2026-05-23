@@ -1,0 +1,4 @@
+interface:
+  display_name: "サイクル開始"
+  short_description: "cycle worker への scoped prompt を発行する"
+  default_prompt: "$cycle-start で次サイクルの scoped prompt を起草してください。"
